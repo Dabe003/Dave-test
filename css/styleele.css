@@ -1,0 +1,8 @@
+body{background-color: darkkhaki;}
+h1{font-size: 32px; color: crimson;}
+h2{font-size: 27px; color: teal;}
+.hello{text-transform: uppercase;}
+.mere{color:forestgreen}
+.hello.mere{font-size: 40px;}
+h1 span{color:darkslateblue}
+span{color:mediumseagreen}
